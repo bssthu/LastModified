@@ -4,6 +4,9 @@
     <Identity Id="c8098ef2-6ea8-4c78-8150-9cca18bd888b" Version="1.0" Language="en-US" Publisher="bssthu" />
     <DisplayName>LastModified</DisplayName>
     <Description>Add last modified time to file when saving.</Description>
+    <MoreInfo>https://github.com/bssthu/LastModified</MoreInfo>
+    <License>LICENSE.txt</License>
+    <Tags>v1.0</Tags>
   </Metadata>
   <Installation InstalledByMsi="false">
     <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[12.0]" />
