@@ -3,6 +3,11 @@ LastModified
 
 Add last modified time when visual studio save files.
 
+For example:
+
+    // Last modified: 2014-12-31, 00:42:47
+
+
 ============
 
 .Net 4.5
