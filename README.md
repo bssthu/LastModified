@@ -5,8 +5,9 @@ Add last modified time when visual studio save files.
 
 For example:
 
+```c++
     // Last modified: 2014-12-31, 00:42:47
-
+```
 
 ============
 
